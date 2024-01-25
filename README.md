@@ -17,7 +17,7 @@ The Word Counter App is a simple React application that provides the total numbe
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ihsaan-Bhamjee/word-counter-app.git
 
 2. Navigate to the project directory:
     cd word-counter-app
